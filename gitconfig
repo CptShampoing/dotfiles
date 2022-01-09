@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marin.4962@gmail.com
+	name = Marin Chalon
